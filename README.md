@@ -22,7 +22,7 @@ https://youtube.com/playlist?list=PLJh97ekrGHeKnnsQqBmP1gG4Pki1OLejM
 ```text
 https://youtube.com/playlist?list=PLjneqPwSGwd-v2jdsYyzhRPAlFVPqd-Qn
 ```
-# SRJ
+# MKS
 ```text
-https://www.youtube.com/watch?v=AYOe5wqkAwc&list=PL9aZtK5kh5Wc0Bza168nB8J-tmPop-lRS
+https://www.youtube.com/watch?v=6BImFtM5-GQ&list=PL9aZtK5kh5WfmqTrzHhiuKWmG2m5H9e_7
 ```
